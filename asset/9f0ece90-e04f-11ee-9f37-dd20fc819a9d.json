@@ -1,28 +1,23 @@
 {
   "entityType" : "ASSET",
   "entity" : {
-    "additionalInfo" : {
-      "description" : ""
-    },
+    "additionalInfo" : null,
     "assetProfileId" : {
       "entityType" : "ASSET_PROFILE",
-      "id" : "99840b70-e04f-11ee-9f37-dd20fc819a9d"
+      "id" : "f6023bc0-be1b-11ee-bd46-eb4aad351550"
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
       "id" : "13814000-1dd2-11b2-8080-808080808080"
     },
-    "externalId" : {
-      "entityType" : "ASSET",
-      "id" : "9a551710-e04f-11ee-9f37-dd20fc819a9d"
-    },
+    "externalId" : null,
     "id" : {
       "entityType" : "ASSET",
-      "id" : "9a551710-e04f-11ee-9f37-dd20fc819a9d"
+      "id" : "9f0ece90-e04f-11ee-9f37-dd20fc819a9d"
     },
     "label" : null,
-    "name" : "Больница_40",
-    "type" : "t_hospital"
+    "name" : "Main_osboxes",
+    "type" : "TbServiceQueue"
   },
   "relations" : [ ],
   "attributes" : {
